@@ -1,0 +1,20 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Unity's generated folders
+Library/
+Logs/
+Temp/
+UserSettings/
+
+# Ignore Packages, except manifest.json and packages-lock.json
+Packages/*
+!/Packages/manifest.json
+!/Packages/packages-lock.json
+
+# Ignore lh binary file
+QCAR/lh
+
+# Ignore VS config and .csproj files
+.vsconfig
+*.csproj
