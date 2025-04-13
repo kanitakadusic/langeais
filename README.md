@@ -16,8 +16,6 @@ This augmented reality application features a custom 3D model, along with three 
 2.   Open the project in Unity
 3.   Press **Play** to start the scene
 
-## Image Recognition 📸
-
 The image used for image recognition is provided below.
 
 ![Recognition image](./Assets/render-1.png)
